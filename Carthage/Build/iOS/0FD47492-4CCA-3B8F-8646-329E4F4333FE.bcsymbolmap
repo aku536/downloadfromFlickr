@@ -1,0 +1,93 @@
+BCSymbolMap Version: 2.0
+_$s9flickrAPI0B0CfD
+_$s9flickrAPI0B0CMa
+_$s9flickrAPI0B0CMm
+_$s9flickrAPIMXM
+_$s9flickrAPI0B0CMn
+_$s9flickrAPI0B0CML
+_$s9flickrAPI0B0CMf
+_symbolic _____ 9flickrAPI0B0C
+_$s9flickrAPI0B0CMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftFoundation_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftDarwin_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftDispatch_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftCoreImage_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftMetal_$_flickrAPI
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_flickrAPI
+___swift_reflection_version
+_objc_classes
+_$s9flickrAPI0B0CACycfCTq
+_$s9flickrAPI0B0CN
+Apple LLVM version 10.0.1 (clang-1001.0.46.5)
+<swift-imported-modules>
+/Users/afonin_kr/Downloads/UrlSessionLessonEmpty — копия
+Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)
+/Users/afonin_kr/Downloads/UrlSessionLessonEmpty — копия/flickrAPI/API.swift
+$s9flickrAPI0B0CMa
+<compiler-generated>
+deinit
+API.swift
+/Users/afonin_kr/Downloads/UrlSessionLessonEmpty — копия/flickrAPI
+_symbolic _____ 9flickrAPI10ImageModelV
+_symbolic SS
+_$s9flickrAPI10ImageModelVMF
+_symbolic _____ 9flickrAPI14ImageViewModelV
+_symbolic So7UIImageC
+_$s9flickrAPI14ImageViewModelVMF
+_$s9flickrAPI14ImageViewModelVMn
+_$s9flickrAPI10ImageModelVMn
+/Users/afonin_kr/Downloads/UrlSessionLessonEmpty — копия/flickrAPI/ImageModel.swift
+_$s9flickrAPI10InteractorCfD
+_$s9flickrAPI10InteractorCMa
+___swift_destroy_boxed_opaque_existential_1
+_symbolic $s9flickrAPI15InteractorInputP
+_$s9flickrAPI15InteractorInput_pMF
+_$s9flickrAPI15InteractorInputMp
+_$s9flickrAPI10InteractorC14networkServiceAA07NetworkE5Input_pvpWvd
+_$s9flickrAPI10InteractorCMm
+_$s9flickrAPI10InteractorCMn
+_$s9flickrAPI10InteractorCML
+_$s9flickrAPI10InteractorCMf
+_symbolic _____ 9flickrAPI10InteractorC
+_symbolic 9flickrAPI19NetworkServiceInput_p
+_$s9flickrAPI10InteractorCMF
+_$s9flickrAPI10InteractorCAA0C5InputAAMc
+_$s9flickrAPI10InteractorCAA0C5InputAAWP
+_$s9flickrAPI15InteractorInputTL
+_$s9flickrAPI10InteractorC14networkServiceAcA07NetworkE5Input_p_tcfCTq
+_$s9flickrAPI10InteractorC13loadImageList2by10completionySS_ySayAA0E5ModelVGctFTq
+_$s9flickrAPI10InteractorC9loadImage2at10completionySS_ySo7UIImageCSgctFTq
+_$s9flickrAPI10InteractorCN
+/Users/afonin_kr/Downloads/UrlSessionLessonEmpty — копия/flickrAPI/Interactor.swift
+__swift_destroy_boxed_opaque_existential_1
+$s9flickrAPI10InteractorCMa
+Interactor.swift
+_$s9flickrAPI14NetworkServiceCfD
+_$s9flickrAPI14NetworkServiceCMa
+_symbolic $s9flickrAPI19NetworkServiceInputP
+_$s9flickrAPI19NetworkServiceInput_pMF
+_$s9flickrAPI19NetworkServiceInputMp
+_$s9flickrAPI14NetworkServiceC7sessionSo12NSURLSessionCvpWvd
+_$s9flickrAPI14NetworkServiceCMm
+_$s9flickrAPI14NetworkServiceCMn
+_$s9flickrAPI14NetworkServiceCML
+_$s9flickrAPI14NetworkServiceCMf
+_symbolic _____ 9flickrAPI14NetworkServiceC
+_symbolic So12NSURLSessionC
+_$s9flickrAPI14NetworkServiceCMF
+_$s9flickrAPI14NetworkServiceCAA0cD5InputAAMc
+_$s9flickrAPI14NetworkServiceCAA0cD5InputAAWP
+_$s9flickrAPI19NetworkServiceInputTL
+_$s9flickrAPI14NetworkServiceC7sessionACSo12NSURLSessionC_tcfCTq
+_$s9flickrAPI14NetworkServiceC7getData2at10parameters10completionySS_SDys11AnyHashableVypGSgy10Foundation0F0VSgctFTq
+_$s9flickrAPI14NetworkServiceC7getData2at10parameters10completiony10Foundation3URLV_SDys11AnyHashableVypGSgyAH0F0VSgctFTq
+_$s9flickrAPI14NetworkServiceCN
+/Users/afonin_kr/Downloads/UrlSessionLessonEmpty — копия/flickrAPI/NetworkService.swift
+$s9flickrAPI14NetworkServiceCMa
+NetworkService.swift
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/afonin_kr/Library/Developer/Xcode/DerivedData/UrlSessionLesson-gicypftnyomnqdclmqwpztrsgqyc/Build/Intermediates.noindex/ArchiveIntermediates/flickrAPI/IntermediateBuildFilesPath/UrlSessionLesson.build/Release-iphoneos/flickrAPI.build/DerivedSources/flickrAPI_vers.c

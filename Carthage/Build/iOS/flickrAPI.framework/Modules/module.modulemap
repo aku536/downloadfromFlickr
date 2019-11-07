@@ -1,0 +1,11 @@
+framework module flickrAPI {
+  umbrella header "flickrAPI.h"
+
+  export *
+  module * { export * }
+}
+
+module flickrAPI.Swift {
+    header "flickrAPI-Swift.h"
+    requires objc
+}
